@@ -12,8 +12,8 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 
 ## Files
 - `titanic_eda.py`: Python script for the EDA.
-- `train.csv`: Titanic dataset (optional, downloadable from Kaggle).
 - `*.png`: Visualization outputs (e.g., survival_count.png).
+- `train.csv`: Titanic dataset (optional, downloadable from Kaggle).
 
 ## How to Run
 1. Install dependencies: `pip install pandas matplotlib seaborn`.
